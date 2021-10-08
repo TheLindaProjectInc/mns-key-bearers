@@ -1,0 +1,15 @@
+{
+  "name": "mns-key-bearers",
+  "version": "1.0.0",
+  "description": "MultiSig contract to be used for the key bearers of the MNS",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile"
+  },
+  "author": "SeqSEE",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "hardhat": "^2.6.5"
+  }
+}
